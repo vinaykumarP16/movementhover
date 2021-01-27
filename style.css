@@ -8,7 +8,7 @@ section{
 	position: relative;
 	width: 100%;
 	height: 100vh;
-	background-color: #100E0E;
+	background-color: white;
 	display: flex;
 	flex-direction: column;
 	overflow: hidden;
